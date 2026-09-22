@@ -7,22 +7,28 @@
 
 ## 1. Integrantes
 
-| Integrante | Rol | Aporte principal |
-|---|---|---|
-| [Jan Paolo Arellano Bailon] | [Estudiante] | [Actividad 2] |
-| [Oscar Adolfo Maravi Falcon] | [Estudiante] | [Actividad 3] |
-| [Nombre 3] | [Rol] | [Aporte] |
-| [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Integrante                   | Rol          | Aporte principal |
+|------------------------------|--------------|------------------|
+| [Jan Paolo Arellano Bailon]  | [Estudiante] | [Actividad 2]    |
+| [Oscar Adolfo Maravi Falcon] | [Estudiante] | [Actividad 3]    |
+| [Carlos Aaron Perez Scharff] | [Estudiante] | [Actividad 4]    |
+| [Nombre 4]                   | [Rol]        | [Aporte]         |
+| [Nombre 5]                   | [Rol]        | [Aporte]         |
 
 ## 2. Descripción y objetivo
 
 **Problema:**  
-[Describir brevemente el problema trabajado.]
+[Una coordinación académica necesita organizar información de talleres estudiantiles. En esta primera
+etapa del sistema se trabajará únicamente con estructuras lineales estáticas. El equipo debe proponer
+una solución para registrar cantidades de inscritos, ordenar resultados, realizar consultas puntuales y
+representar la distribución de estudiantes por aulas y horarios.]
 
 
 **Solución desarrollada:**  
-[Explicar brevemente la solución implementada.]
+[
+Actividad4: Una matriz poco densa es aquella en la que la mayoría de sus elementos tienen un valor de cero. 
+En nuestro caso, podemos utilizarla para representar la ocupación de las aulas en diferentes horarios, 
+donde el valor cero indica que no hay estudiantes registrados.]
 
 ## 3. Cómo ejecutar o revisar
 
@@ -47,13 +53,13 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 ## 5. Matriz de participación
 
-| Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
-|---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Integrante                   | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
+|------------------------------|---|---|---|---|---|
+| [Jan Paolo Arellano Bailon]  | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Carlos Aaron Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Oscar Adolfo Maravi Falcon] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 4]                   | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 5]                   | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
 
