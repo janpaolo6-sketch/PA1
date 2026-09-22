@@ -12,7 +12,7 @@
 | [Jan Paolo Arellano Bailon]  | [Estudiante] | [Actividad 2]    |
 | [Oscar Adolfo Maravi Falcon] | [Estudiante] | [Actividad 3]    |
 | [Carlos Aaron Perez Scharff] | [Estudiante] | [Actividad 4]    |
-| [Nombre 4]                   | [Rol]        | [Aporte]         |
+| [Alan Leibniz Llallihuamán Calderón]                   | [Estudiante]        | [Actividad 1]         |
 | [Nombre 5]                   | [Rol]        | [Aporte]         |
 
 ## 2. Descripción y objetivo
@@ -58,7 +58,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 | [Jan Paolo Arellano Bailon]  | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Carlos Aaron Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Oscar Adolfo Maravi Falcon] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 4]                   | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Alan Leibniz Llallihuamán Calderón]                   | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Nombre 5]                   | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
@@ -69,7 +69,7 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ## 7. Conclusiones
 
-- [Conclusión 1]
+- [Un buen algoritmo con una estructura de datos inadecuada será ineficiente; una estructura de datos perfecta con un algoritmo mal diseñado no resolverá el problema. Por lo tanto, la elección correcta de ambos optimiza el rendimiento del software.]
 - [Conclusión 2]
 - [Conclusión 3]
 
