@@ -21,7 +21,7 @@ public class Actividad2PA {
 
     }
 
-    // 1. Representarel vector indicando índices y valores
+    // 1. Representar el vector indicando índices y valores
     public static void Punto1Representar() {
         System.out.println("\n-- PUNTO 1: REPRESENTACIÓN GRÁFICA --");
 

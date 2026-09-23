@@ -12,68 +12,43 @@
 | [Jan Paolo Arellano Bailon]  | [Estudiante] | [Actividad 2]    |
 | [Oscar Adolfo Maravi Falcon] | [Estudiante] | [Actividad 3]    |
 | [Carlos Aaron Perez Scharff] | [Estudiante] | [Actividad 4]    |
-| [Alan Leibniz Llallihuamán Calderón]                   | [Estudiante]        | [Actividad 1]         |
-| [Nombre 5]                   | [Rol]        | [Aporte]         |
-
-## 2. Descripción y objetivo
-
-**Problema:**  
-[Una coordinación académica necesita organizar información de talleres estudiantiles. En esta primera
-etapa del sistema se trabajará únicamente con estructuras lineales estáticas. El equipo debe proponer
-una solución para registrar cantidades de inscritos, ordenar resultados, realizar consultas puntuales y
-representar la distribución de estudiantes por aulas y horarios.]
+| [Alan Leibniz Llallihuamán Calderón] | [Estudiante]        | [Actividad 1]         |
 
 
-**Solución desarrollada:**  
-[
-Actividad4: Una matriz poco densa es aquella en la que la mayoría de sus elementos tienen un valor de cero. 
-En nuestro caso, podemos utilizarla para representar la ocupación de las aulas en diferentes horarios, 
-donde el valor cero indica que no hay estudiantes registrados.]
-
-## 3. Cómo ejecutar o revisar
-
-```bash
-# Escribir aquí los comandos necesarios
-```
-
-**Pasos de revisión:**
-1. [Paso 1]
-2. [Paso 2]
-3. [Paso 3]
-
-> No publicar contraseñas, tokens, credenciales ni datos sensibles.
-
-## 4. Evidencias
+## Evidencias
 
 Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funcionamiento.
 
-- [Evidencia 1]
-- [Evidencia 2]
-- [Evidencia 3]
+- Soluciones planteadas a lo largo de las actividades 1,2,3 y 4 en el proyecto de InteliJ
 
-## 5. Matriz de participación
+## Matriz de participación
 
 | Integrante                   | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |------------------------------|---|---|---|---|---|
 | [Jan Paolo Arellano Bailon]  | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 | [Carlos Aaron Perez Scharff] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Oscar Adolfo Maravi Falcon] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
-| [Alan Leibniz Llallihuamán Calderón]                   | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
-| [Nombre 5]                   | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Oscar Adolfo Maravi Falcon] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
+| [Alan Leibniz Llallihuamán Calderón] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits, avances, etc.] |
 
-## 6. Video de exposición
+## Video de exposición
 
 **Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
-## 7. Conclusiones
+## Conclusiones
 
 - [Un buen algoritmo con una estructura de datos inadecuada será ineficiente; una estructura de datos perfecta con un algoritmo mal diseñado no resolverá el problema. Por lo tanto, la elección correcta de ambos optimiza el rendimiento del software.]
-- [Conclusión 2]
-- [Conclusión 3]
+
+- [La elección entre estructuras estáticas y dinámicas depende de la previsibilidad de la memoria y la variabilidad de los datos, resultando los arreglos y matrices ideales para conjuntos acotados.]
+
+- [Las operaciones sobre vectores demuestran cómo un algoritmo estructurado transforma datos en información útil, siendo vital analizar el costo computacional en distintos escenarios para optimizar el rendimiento.]
+
+- [El modelado multidimensional mediante matrices simplifica la representación de realidades de doble entrada, como aulas y horarios, exigiendo recorridos sistemáticos para obtener métricas exactas.]
+
+- [El análisis de matrices especiales y poco densas enfatiza la necesidad de adaptar la estructura de almacenamiento a la naturaleza de los datos para prevenir el desperdicio de recursos computacionales.]
 
 ---
 
-**Última actualización:** [DD/MM/AAAA]
+**Última actualización:** [22/09/2026]
 "# PA1" 
