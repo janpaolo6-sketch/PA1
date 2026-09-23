@@ -32,7 +32,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 ## Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** [(https://youtu.be/gKU6KBlr6sI)]
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
